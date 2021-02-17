@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadi
 - 👀 I’m interested in ... best practice in UX  
-- 🌱 I’m currently learning ...web development 
+- 🌱 I’m currently learning ... by doing! 
 - 💞️ I’m looking to collaborate on ... conversations about UX or giving feedback on your UX
 - 📫 How to reach me ... twitter @lukefromdubai
 
